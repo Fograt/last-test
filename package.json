@@ -1,0 +1,22 @@
+{
+  "name": "last-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fograt/last-test.git"
+  },
+  "author": "Fograt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fograt/last-test/issues"
+  },
+  "homepage": "https://github.com/Fograt/last-test#readme",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
